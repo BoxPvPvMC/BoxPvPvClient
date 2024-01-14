@@ -1453,7 +1453,7 @@ function populateAboutVersionInformation(){
  */
 function populateReleaseNotes(){
     $.ajax({
-        url: 'https://github.com/BoxPvPvClient/BoxPvPvClient/releases.atom',
+        url: 'https://github.com/BoxPvPvMC/BoxPvPvClient/releases.atom',
         success: (data) => {
             const version = 'v' + remote.app.getVersion()
             const entries = $(data).find('entry')
