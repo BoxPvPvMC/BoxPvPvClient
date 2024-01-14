@@ -7,6 +7,10 @@ title = "BoxPvPv Launcher"
 mediaDiscordURL = "https://discord.gg/boxpvpv"
 mediaTwitterURL = "https://twitter.com/BoxPvPv"
 
+[ejs.settings]
+sourceGithubLink = "https://github.com/BoxPvPvMC/BoxPvPvClient"
+sourceGithub = "https://github.com/BoxPvPvMC/BoxPvPvClient"
+
 [ejs.welcome]
 welcomeHeader = "WELCOME TO BOXPVPV"
 welcomeDescription = "BoxPvPv is a server network containing different, but similar gamemodes all centured around, BoxPvP. Join and try out these enjoyable gamemodes yourself, along with a custom configured launcher, packed with custom configs with numerous performance enchancing mods. Join the action, at the best possible framerate!"
