@@ -1,0 +1,13 @@
+# Custom Language File for Launcher Customizer
+
+[ejs.app]
+title = "BoxPvPv Launcher"
+
+[ejs.landing]
+mediaDiscordURL = "https://discord.gg/boxpvpv"
+mediaTwitterURL = "https://twitter.com/BoxPvPv"
+
+[ejs.welcome]
+welcomeHeader = "WELCOME TO BOXPVPV"
+welcomeDescription = "BoxPvPv is a server network containing different, but similar gamemodes all centured around, BoxPvP. Join and try out these enjoyable gamemodes yourself, along with a custom configured launcher, packed with custom configs with numerous performance enchancing mods. Join the action, at the best possible framerate!"
+welcomeDescCTA = "You are just a few clicks away from BoxPvPv."
