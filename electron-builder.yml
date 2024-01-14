@@ -1,6 +1,6 @@
 appId: 'boxpvpvlauncher'
-productName: 'BoxPvPv_Launcher'
-artifactName: '${productName}-setup-${version}.${ext}'
+productName: 'BoxPvPv Launcher'
+artifactName: 'BoxPvPv_Launcher-setup-${version}.${ext}'
 
 copyright: 'Copyright © 2024 BoxPvPv'
 
@@ -33,7 +33,7 @@ mac:
       arch:
         - 'x64'
         - 'arm64'
-  artifactName: '${productName}-setup-${version}-${arch}.${ext}'
+  artifactName: 'BoxPvPv_Launcher-setup-${version}-${arch}.${ext}'
   category: 'public.app-category.games'
 
 # Linux Configuration
