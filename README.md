@@ -54,8 +54,8 @@ If you download from the [Releases](https://github.com/BoxPvPvMC/BoxPvPvClient/r
 
 ## Resources
 
-* [Discord][https://discord.gg/boxpvpv]
+* (Discord)[https://discord.gg/boxpvpv]
 
 ## Credit
 
-[HeliosLauncher][http://github.com/dscalzi/HeliosLauncher]
+(HeliosLauncher)[http://github.com/dscalzi/HeliosLauncher]
