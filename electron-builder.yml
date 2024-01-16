@@ -29,10 +29,10 @@ nsis:
 # macOS Configuration
 mac:
   target:
-    - target: 'dmg'
-      arch:
-        - 'x64'
-        - 'arm64'
+    - target: dmg
+      arch: [x64, arm64]
+    - target: zip
+      arch: [x64, arm64]
   artifactName: 'BoxPvPv_Launcher-setup-${version}-${arch}.${ext}'
   category: 'public.app-category.games'
 
